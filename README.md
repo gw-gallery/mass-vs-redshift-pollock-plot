@@ -1,6 +1,9 @@
 # mass-vs-redshift-pollock-plot
 
 Plots illustrating the mass and redshift measurements of CBC detections through the GWTC-3 catalog.
+I use this example to illustrate why hierarchical inference on GW data is hard.
+Specifically, one can pose the seemingly simple question: _Is there a correlation between black hole masses and their redshifts?_
+At face value (Plot 1), the answer is a clear yes, but after folding in measurement uncertainty (Plot 2) and selection effects (Plot 3) it's clear that the problem is much more complicated (as of today, there is no known correlation between masses and redshifts).
 
 ### Plot 1: Scatter
 
